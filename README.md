@@ -1,9 +1,5 @@
 # ScapyScan - A Stealthy & Fast Python Port Scanner
 
-<div align="center">
-  <img src="https://i.imgur.com/vHqX6xV.png" alt="ScapyScan Logo" width="150"/>
-</div>
-
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version">
