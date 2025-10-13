@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 Why FalconScan? The Purpose & Use Cases
+## 🎯 Why ScapyScan? Purpose & Use Cases
 
 Understanding what services are exposed to a network is the foundational first step in both offensive and defensive security. ScapyScan was built to automate this crucial reconnaissance phase efficiently and discreetly. It helps answer the fundamental question: "What doors are open on this target?"
 
