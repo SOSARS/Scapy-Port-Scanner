@@ -28,6 +28,20 @@
 
 ---
 
+## 🎯 Why FalconScan? The Purpose & Use Cases
+
+Understanding what services are exposed to a network is the foundational first step in both offensive and defensive security. ScapyScan was built to automate this crucial reconnaissance phase efficiently and discreetly. It helps answer the fundamental question: "What doors are open on this target?"
+
+This tool is designed for several key purposes:
+
+* **Ethical Hacking & Penetration Testing**: During the initial information-gathering phase, a penetration tester can use ScapyScan to quickly map out a target's attack surface, identifying open ports and running services that could be potential vectors for exploitation.
+
+* **Network Security Auditing**: A system administrator can use this tool to audit their own systems and firewalls. By scanning their servers from an external perspective, they can verify that only intended ports are open and that no unauthorised services are exposed to the internet.
+
+* **Educational Learning**: For anyone studying cybersecurity, this project serves as a practical, hands-on example of core concepts like TCP/IP protocols (SYN scans), raw packet crafting with Scapy, and concurrent programming with Python's multi-threading.
+
+---
+
 ## 🎬 Demo
 
 * Video dropping shortly *
