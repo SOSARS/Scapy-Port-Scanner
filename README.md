@@ -45,6 +45,7 @@ This tool is designed for several key purposes:
 ## 🎬 Demo
 
 ... maybe one day. Stay tuned 😂
+
 ---
 
 ## 🛠️ Installation & Setup
