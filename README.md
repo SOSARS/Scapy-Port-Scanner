@@ -170,14 +170,14 @@ port,state,banner,scan_type,timestamp
 
 ```
 Scapy-Port-Scanner/
-├── scapy_port_scanner.py       # Version 1 (original, kept for reference)
+├── scapy-port-scanner.py       # Version 1 (original, kept for reference)
 ├── scapy_port_scanner-v2.py    # Version 2 (production-ready) ⭐
 └── README.md                    # This file
 ```
 
 ### Version Differences
 
-#### Version 1 (`scapy_port_scanner.py`)
+#### Version 1 (`scapy-port-scanner.py`)
 - Original implementation
 - Basic functionality with known bugs
 - Kept for learning reference and historical progression
