@@ -53,7 +53,7 @@ cd Scapy-Port-Scanner
 
 **Linux/macOS:**
 ```bash
-pip3 install scapy
+sudo apt install python3-scapy
 ```
 
 **Windows:**
